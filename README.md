@@ -1,7 +1,8 @@
 <h1> Hi! there✋</h1>
 
-<p>Welcome to my page! </br> I'm Woosung, Frontend developer</p>
-</br>
+<p>Welcome to my page! I'm Woosung, Frontend developer.</p>
+<p>✉️ Email : <a href="wlstmdghs@naver.com/" target="_blank"> wlstmdghs@naver.com</a>
+<p>🔗 Blog : <a href="https://xjwsx.tistory.com/" target="_blank"> xjwsx.tistory.com</a>
 <h3>Skills</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
